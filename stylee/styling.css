@@ -441,8 +441,8 @@ input{
 }
 
 /* Centers Section */
-.centers-section {
-    background-image: url("../images/bg-map.svg");
+.centers-section-area {
+    background-image: url("./img/bg-map.svg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
